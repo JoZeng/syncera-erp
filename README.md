@@ -60,7 +60,7 @@ Este repositório contém o projeto pessoal **SyncEra ERP**, um sistema de gest�
 
 ## Link do Projeto:
 
-[https://synceria-erp.vercel.app/](https://synceria-erp.vercel.app/)
+[https://syncera-erp.vercel.app/]
 
 ## Como Rodar o Projeto Localmente:
 
@@ -75,7 +75,7 @@ Este repositório contém o projeto pessoal **SyncEra ERP**, um sistema de gest�
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/JoZeng/SyncEra-ERP.git](https://github.com/JoZeng/SyncEra-ERP.git) # Atualize com o seu usuário e nome do repositório
+    git clone [https://github.com/JoZeng/syncera-erp.git](https://github.com/JoZeng/syncera-erp.git) # Atualize com o seu usuário e nome do repositório
     cd SyncEra-ERP
     ```
 
